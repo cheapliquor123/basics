@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: greenyellow;
+    margin-left: 20px;
+  }
+
+  form {
+    color: greenyellow;
+  }
+
+  div {
+    text-align: center;
+  }
+
